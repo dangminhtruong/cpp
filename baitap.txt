@@ -1,0 +1,87 @@
+Bài 01(ctdlgtbai01.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu mảng có phần tử dữ liệu là số nguyên.
+Sử dụng cấu trúc mảng cho bài toán cộng hai ma trận số nguyên có kích thước mxn. Viết hàm nhập vào ma trận,
+hàm cộng ma trận và hàm đưa ma trận ra màn hình theo hàng, cột. Yêu cầu sử dụng biến mảng động làm cấu trúc lưu trữ.
+
+Bài 02(ctdlgtbai02.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu mảng có phần tử dữ liệu là số nguyên.
+Sử dụng cấu trúc mảng cho bài toán nhân hai ma trận số nguyên: Cmxn = Amxp x Bpxn. Viết hàm nhập vào ma trận,
+hàm nhân ma trận và hàm đưa ma trận ra màn hình theo hàng, cột. Yêu cầu sử dụng biến mảng động làm cấu trúc lưu trữ.
+
+Bài 03(ctdlgtbai03.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu ngăn xếp sử dụng cấu trúc lưu trữ kế tiếp.
+Sử dụng ngăn xếp cho bài toán chuyển một số nguyên dương hệ 10 sang hệ 2. Đưa ra bit MSB của số nhị phân tìm được.
+
+Bài 04(ctdlgtbai04.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu ngăn xếp sử dụng cấu trúc lưu trữ kế tiếp.
+Sử dụng ngăn xếp cho bài toán chuyển một số nguyên dương hệ 10 sang hệ 16.
+
+Bài 05(ctdlgtbai05.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu hàng đợi sử dụng
+cấu trúc lưu trữ kế tiếp theo kiểu quay vòng. Sử dụng hàng đợi cho bài toán: Nhập vào một dãy số nguyên dương,
+lưu dãy số trong biến mảng. Đưa các số lẻ lên đầu dãy số, các số chẵn xuống cuối dãy số. 
+
+Bài 06(ctdlgtbai06.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu hàng đợi sử dụng
+cấu trúc lưu trữ kế tiếp theo kiểu quay vòng. Sử dụng hàng đợi cho bài toán: Có một tệp danh sách sinh viên,
+mỗi sinh viên có thông tin gồm mã sv, họ tên, giới tính, điểm tbc. Danh sách sinh viên trên tệp đã được sắp xếp theo
+điểm tbc giảm dần. Ghi lại tệp sao cho tất cả sinh viên nữ ở đầu danh sách, tất cả sinh viên nam ở cuối danh sách,
+điểm tbc vẫn giảm dần trong nhóm nam và nữ.
+
+Bài 07(ctdlgtbai07.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu danh sách liên kết đơn
+với các phép toán:
+    1)Bổ sung phần tử dữ liệu x vào sau nút M trong danh sách
+    2)Bổ sung phần tử dữ liệu x vào trước nút M trong danh sách
+    3)Loại bỏ nút M khỏi danh sách, trả về phần tử dữ liệu trong nút M.
+    4)Duyệt và đưa ra các phần tử dữ liệu trong danh sách.
+Sử dụng danh sách liên kết đơn trên để chứa một dãy số nguyên nhập vào từ bàn phím. Đưa dãy số nguyên trong
+danh sách ra màn hình. Xóa một phần tử có giá trị bằng x.
+
+Bài 08(ctdlgtbai08.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu danh sách liên kết kép
+với các phép toán:
+    1)Bổ sung phần tử dữ liệu x vào sau nút M trong danh sách.
+    2)Bổ sung phần tử dữ liệu x vào trước nút M trong danh sách.
+    3)Bổ sung phần tử dữ liệu x vào cuối danh sách.
+    4)Loại bỏ nút M khỏi danh sách, trả về phần tử dữ liệu trong nút M.
+    5)Loại bỏ một phần tử trong danh sách có giá trị bằng x.
+    6)Hủy cả danh sách.
+    7)Duyệt và đưa ra các phần tử dữ liệu trong danh sách.
+Sử dụng danh sách liên kết kép trên để chứa một dãy số nguyên nhập vào từ bàn phím. Đưa dãy số nguyên trong
+danh sách ra màn hình theo đúng thứ tự đã nhập. Xóa một phần tử có giá trị bằng x.
+
+Bài 09(ctdlgtbai09.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu ngăn xếp sử dụng cấu trúc lưu trữ phân tán
+với các phép toán sau:
+    1)Bổ sung phần tử dữ liệu x vào ngăn xếp (Push).
+    2)Loại bỏ phần tử khỏi ngăn xếp (Pop).
+    3)Kiểm tra ngăn xếp rỗng (Empty).
+    4)Trả về phần tử đỉnh ngăn xếp (Top).
+    5)Trả về số phần tử của ngăn xếp (Count).
+Sử dụng ngăn xếp cho bài toán: Nhập vào một số nguyên dương có nhiều chữ số, đưa ra màn hình từng chữ số
+của số nguyên đó, các chữ số từ trái sang phải, mỗi số trên một dòng.
+
+Bài 10(ctdlgtbai10.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu hàng đợi sử dụng cấu trúc lưu trữ phân tán
+với các phép toán sau:
+    1)Bổ sung phần tử dữ liệu x vào hàng đợi (QInsert).
+    2)Loại bỏ phần tử khỏi hàng đợi (QDelete).
+    3)Kiểm tra hàng đợi rỗng (QEmpty).
+    4)Trả về phần tử đầu hàng đợi (Front).
+    5)Trả về phần tử cuối hàng đợi (Rear).
+Sử dụng hàng đợi cho bài toán: Cho tệp văn bản dayso.txt chứa dãy số nguyên đã sắp xếp tăng dần. Đọc dãy số từ tệp
+rồi đưa ra màn hình một dòng dãy số chẵn tăng dần, một dòng dãy số lẽ tăng dần.
+
+Bài 11(ctdlgtbai11.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu cây nhị phân sử dụng cấu trúc lưu trữ phân tán.
+Biết rằng phần tử dữ liệu của các nút trên cây là ký tự. Sử dụng cấu trúc cây nhị phân trên để lưu trữ biểu thức
+(a+b)*2 - c/d. Duyệt cây nhị phân để đưa ra biểu thức hậu tố.
+
+Bài 12(ctdlgtbai12.cpp). Viết chương trình C/C++ cài đặt cấu trúc dữ liệu đồ thị sử dụng cấu trúc lưu trữ phân tán.
+Cho rằng đồ thị là vô hướng không trọng số, các đỉnh của đồ thị được định danh bởi các số nguyên liên tiếp bắt đầu từ 1,
+phần tử dữ liệu của các nút trên đồ thị là số thực. Tính tổng và tbc các phần tử dữ liệu của các nút trên đồ thị.
+
+Bài 13(ctdlgtbai13.cpp). Cho dãy khóa n phần tử là các số nguyên lưu trữ trong mảng 1 chiều.
+Viết chương trình C/C++ cài đặt giải thuật sắp xếp chọn, chèn, sủi bọt, phân đoạn, vun đống và trộn
+để sắp xếp dãy khóa tăng dần.
+
+Bài 14(ctdlgtbai14.cpp). Cho dãy khóa n phần tử là các số nguyên lưu trữ trong mảng 1 chiều.
+Viết chương trình C/C++ cài đặt giải thuật tìm kiếm tuần tự để tìm khóa có giá trị bằng x.
+
+Bài 15(ctdlgtbai15.cpp). Cho dãy khóa n phần tử là các số nguyên đã được sắp xếp tăng dần và lưu trữ trong mảng 1 chiều. 
+Viết chương trình C/C++ cài đặt giải thuật tìm kiếm nhị phân dạng đệ quy và không đệ quy để tìm khóa có giá trị bằng x.
+
+Bài 16(ctdlgtbai16.cpp). Cho dãy khóa n phần tử là các số nguyên lưu trữ trong mảng 1 chiều.
+Viết chương trình C/C++ tạo cây nhị phân tìm kiếm cho dãy khóa trên. Tìm khóa có giá trị bằng x, nếu không tìm thấy thì
+bổ sung x vào dãy khóa.
+
